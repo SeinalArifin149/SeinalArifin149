@@ -4,14 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seinalarifin149&label=Profile%20views&color=0e75b6&style=flat" alt="seinalarifin149" /> </p>
 
 - 🔭 I’m currently working on **Teacher Scout**
-
-- 🌱 I’m currently learning **Laraverl,React**
-
-- 👯 I’m looking to collaborate on **With Myself**
-
-- 🤝 I’m looking for help with **Everyone**
-
-- 💬 Ask me about **aokwokawo**
+- #and I,m Everything
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
