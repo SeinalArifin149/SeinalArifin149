@@ -3,8 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seinalarifin149&label=Profile%20views&color=0e75b6&style=flat" alt="seinalarifin149" /> </p>
 
+## 🔭 Current Work
 - 🔭 I’m currently working on **Teacher Scout**
-- #and I,m Everything
+
+## 👨‍💻 Focus Area
+- 📊 Data Science
+- 🤖 AI Model Development
+
+## 🛠 Tech & Environment
+- 🐧 Linux User
+- 📱 Mobile Device Service & Troubleshooting Hardware
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
