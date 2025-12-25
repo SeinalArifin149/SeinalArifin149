@@ -9,6 +9,9 @@
 ## 👨‍💻 Focus Area
 - 📊 Data Science
 - 🤖 AI Model Development
+- 🌐📡 Internet of Things (IoT)
+- 💻🌐 Web Developer
+- ⚙️🚀 DevOps
 
 ## 🛠 Tech & Environment
 - 🐧 Linux User
