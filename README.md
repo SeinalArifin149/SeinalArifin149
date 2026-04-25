@@ -5,7 +5,9 @@
 
 ## 🔭 Current Work
 - 🔭 I’m currently working on **Teacher Scout**
-
+- 💻 Backend Developer (Laravel, API Development)
+- 📊 Data Analyst & Data Science Enthusiast
+- 🤖 Interested in Machine Learning & NLP
 ## 👨‍💻 Focus Area
 - 📊 Data Science
 - 🤖 AI Model Development
