@@ -20,7 +20,12 @@
 - 📱 Mobile Device Service & Troubleshooting Hardware (Android)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+💼 Portfolio:
+<a href="https://seinalportofolio.vercel.app/" target="_blank">
+seinalportofolio.vercel.app
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
