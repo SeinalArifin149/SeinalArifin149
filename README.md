@@ -16,8 +16,8 @@
 - ⚙️🚀 DevOps
 
 ## 🛠 Tech & Environment
-- 🐧 Linux User
-- 📱 Mobile Device Service & Troubleshooting Hardware
+- 🐧 Linux User(Ubuntu,Mint,Debian,Fedora)
+- 📱 Mobile Device Service & Troubleshooting Hardware (Android)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
